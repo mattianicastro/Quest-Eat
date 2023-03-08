@@ -9,3 +9,9 @@ Cerchi nuove avventure culinarie? Vuoi condividere i tuoi migliori itinerari cul
 - Codice affiliato per i creator
 - Ricompense challenge
 - Sistema di recensioni alla "4 ristoranti"
+
+## Partecipanti
+
+- Alessandro Scandolo
+- Leonardo Gheda
+- Mattia Nicastro
