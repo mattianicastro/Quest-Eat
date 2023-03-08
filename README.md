@@ -15,3 +15,8 @@ Cerchi nuove avventure culinarie? Vuoi condividere i tuoi migliori itinerari cul
 - Alessandro Scandolo
 - Leonardo Gheda
 - Mattia Nicastro
+
+## Tecnologie
+
+- Firebase
+- Sveltekit
